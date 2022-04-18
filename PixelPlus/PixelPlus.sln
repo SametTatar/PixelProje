@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPlus.DAL", "PixelPlus.DAL\PixelPlus.DAL.csproj", "{E7F5D28F-4832-4097-85C8-AB3674821861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPlus.ENT", "PixelPlus.ENT\PixelPlus.ENT.csproj", "{E7B8C420-3A63-47F3-A1CE-EED6A1BF691D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPlus.UOW", "PixelPlus.UOW\PixelPlus.UOW.csproj", "{FB8C2834-0980-43B4-AD6A-3F72AF6EEF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPlus.API", "PixelPlus.API\PixelPlus.API.csproj", "{E5BA31BD-A4CD-4908-A9AC-E372F90F5D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPlus.Core", "PixelPlus.Core\PixelPlus.Core.csproj", "{9CD3C0C1-1AD9-44FB-9C48-0E13D39F61B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F5D28F-4832-4097-85C8-AB3674821861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F5D28F-4832-4097-85C8-AB3674821861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F5D28F-4832-4097-85C8-AB3674821861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F5D28F-4832-4097-85C8-AB3674821861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B8C420-3A63-47F3-A1CE-EED6A1BF691D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B8C420-3A63-47F3-A1CE-EED6A1BF691D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B8C420-3A63-47F3-A1CE-EED6A1BF691D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B8C420-3A63-47F3-A1CE-EED6A1BF691D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8C2834-0980-43B4-AD6A-3F72AF6EEF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8C2834-0980-43B4-AD6A-3F72AF6EEF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8C2834-0980-43B4-AD6A-3F72AF6EEF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8C2834-0980-43B4-AD6A-3F72AF6EEF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BA31BD-A4CD-4908-A9AC-E372F90F5D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BA31BD-A4CD-4908-A9AC-E372F90F5D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BA31BD-A4CD-4908-A9AC-E372F90F5D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BA31BD-A4CD-4908-A9AC-E372F90F5D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD3C0C1-1AD9-44FB-9C48-0E13D39F61B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD3C0C1-1AD9-44FB-9C48-0E13D39F61B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD3C0C1-1AD9-44FB-9C48-0E13D39F61B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD3C0C1-1AD9-44FB-9C48-0E13D39F61B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9588C153-6EAA-473B-875E-56C70B214E9E}
+	EndGlobalSection
+EndGlobal
